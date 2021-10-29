@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](https://github.com/dandlim/boys-and-bands/blob/main/tableau.html) and ![Image](src)
 ```
 
+[Link](https://github.com/dandlim/boys-and-bands/blob/main/tableau.html)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
